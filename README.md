@@ -1,4 +1,4 @@
-# RoyaltyLikesBoost
+# RoyaltyLikesBoost Private Policy
 1. Using the real application Royalty - Likes boost (hereinafter - the Application), you get the opportunity to:
 1.1. use of services provided by the Application;
 1.2. the purchase of electronic goods and / or services for further use within the Application;
